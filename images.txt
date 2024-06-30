@@ -12,6 +12,11 @@ oceanbase/oceanbase-ce:4.2.1-lts
 #node:20.15.0-slim
 #azul/zulu-openjdk-debian:21.0.3-jdk
 #azul/zulu-openjdk-debian:17.0.10-jdk
-rabbitmq:3.13.3-management-alpine
-bitnami/kafka:3.7.0
-nats-streaming:0.25.6
+#rabbitmq:3.13.3-management-alpine
+#bitnami/kafka:3.7.0
+#nats-streaming:0.25.6
+bitnami/minideb:bookworm
+bitnami/percona-mysql:8.3
+bitnami/mysql:8.4.0
+bitnami/mongodb:7.0.12
+pull bitnami/redis:7.2.5
