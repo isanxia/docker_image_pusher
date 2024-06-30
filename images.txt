@@ -15,8 +15,8 @@ oceanbase/oceanbase-ce:4.2.1-lts
 #rabbitmq:3.13.3-management-alpine
 #bitnami/kafka:3.7.0
 #nats-streaming:0.25.6
-bitnami/minideb:bookworm
-bitnami/percona-mysql:8.3
-bitnami/mysql:8.4.0
-bitnami/mongodb:7.0.12
-pull bitnami/redis:7.2.5
+#bitnami/minideb:bookworm
+#bitnami/percona-mysql:8.3
+#bitnami/mysql:8.4.0
+#bitnami/mongodb:7.0.12
+bitnami/redis:7.2.5
